@@ -1,4 +1,4 @@
-# Hi, I'm Stallon Angelino 👋
+# Hello, I'm Stallon Angelino
 
 Cybersecurity student focused on security engineering, defensive security, and building practical security tools.
 
