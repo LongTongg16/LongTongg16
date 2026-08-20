@@ -61,7 +61,7 @@ The project gave me practical experience working in a multi-person engineering e
 - **Frontend:** React, Vite, Tailwind CSS
 - **Security:** Network security fundamentals, HTTP security, TLS fundamentals, security monitoring
 - **Tools:** Git, GitHub, Linux
-- **Currently learning:** CompTIA Security+ SY0-701, security engineering fundamentals, security automation
+- **Currently learning:** Microsoft SC-200, security engineering fundamentals, security automation
 
 ## Current Focus
 
